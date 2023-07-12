@@ -1,0 +1,4 @@
+#exclude report and several private txts
+
+*.txt
+*.pdf
